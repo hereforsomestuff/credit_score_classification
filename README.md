@@ -45,3 +45,4 @@ Conclusion: This project will provide valuable insights into the credit risk of 
 
 Reference: https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/ 
 
+https://www.investopedia.com/terms/c/credit_score.asp 
