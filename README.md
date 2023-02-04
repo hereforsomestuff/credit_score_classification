@@ -42,3 +42,6 @@ Methodology: The project will use a supervised learning approach to build the pr
 Results: The results of the project will be the best performing predictive model that can accurately classify consumers into different credit risk categories based on their credit scores. The model will be tested on new, unseen data to ensure that it generalizes well to new data.
 
 Conclusion: This project will provide valuable insights into the credit risk of consumers and will help lenders make informed decisions about who to lend money to and at what terms. The results of this project will have a major impact on the lending industry and will help consumers access credit more easily and at lower rates.
+
+Reference: https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/ 
+
