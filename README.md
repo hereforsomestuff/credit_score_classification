@@ -43,6 +43,17 @@ Results: The results of the project will be the best performing predictive model
 
 Conclusion: This project will provide valuable insights into the credit risk of consumers and will help lenders make informed decisions about who to lend money to and at what terms. The results of this project will have a major impact on the lending industry and will help consumers access credit more easily and at lower rates.
 
-Reference: https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/ 
+Reference: 
+
+DataSet: https://www.kaggle.com/parisrohan
+
+https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/ 
 
 https://www.investopedia.com/terms/c/credit_score.asp 
+
+https://www.kaggle.com/code/mohamedahmed10000/credit-score-eda-prediction-multi-class
+
+https://www.kaggle.com/code/clkmuhammed/credit-score-classification-part-1-data-cleaning
+
+
+
